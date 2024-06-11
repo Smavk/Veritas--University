@@ -45,19 +45,9 @@
                 </ul>
                 <!-- SEARCH FORM -->
                 <!-- Right navbar links -->
-            </nav>
-                                    <form id="logout-form" action="https://admissions.veritas.edu.ng/students/logout" method="POST" style="display: none;">
-                                        <input type="hidden" name="_token" value="56ZZVmfZ8ZhuJhBJfEp7ay9OOyA2RLKX2TW70obx">
-                                    </form>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-                    <!-- /.sidebar-menu -->
+            </nav>             
                 </div>
                 <!-- /.sidebar -->
-            </aside>
-            <!-- Content Wrapper. Contains page content -->
             <div class="content-wrapper">
                 <!-- Content Header (Page header) -->
                 <!-- Main content -->
