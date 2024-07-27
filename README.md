@@ -39,19 +39,6 @@
                     <li class="nav-item">
                         <a class="nav-link" style="color: #218c74;" data-widget="pushmenu" href="#">
                             <i class="fas fa-bars"></i>
-                        </a>
-                    </li>
-                    <li></li>
-                </ul>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-                    <!-- /.sidebar-menu -->
-                </div>
-                <!-- /.sidebar -->
-            </aside>
-            <!-- Content Wrapper. Contains page content -->
             <div class="content-wrapper">
                 <!-- Content Header (Page header) -->
                 <!-- Main content -->
